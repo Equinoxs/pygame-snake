@@ -7,7 +7,7 @@ import time
 pygame.init()
 
 # Titre de la fenêtre
-pygame.display.set_caption("SNACK")
+pygame.display.set_caption("SNAKE")
 
 # Taille de la fenêtre
 fenetre = pygame.display.set_mode((1280, 720))
